@@ -5,7 +5,7 @@ Created on Sat Feb 11 19:00:04 2023
 @author: ehele
 """
 
-from classes import LogIn, MainApp
+from app_class import LogIn, MainApp
 
 
 if __name__ == '__main__':
